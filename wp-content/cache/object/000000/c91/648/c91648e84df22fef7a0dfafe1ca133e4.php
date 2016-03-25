@@ -1,0 +1,1 @@
+]õV<?php exit; ?>a:1:{s:7:"content";a:4:{s:24:"theme_mods_twentysixteen";b:1;s:13:"current_theme";b:1;s:19:"mods_Twenty Sixteen";b:1;s:14:"theme_switched";b:1;}}
